@@ -1,0 +1,8 @@
+numpy
+scipy
+trimesh
+open3d
+opencv-python
+pillow
+tqdm
+torch
